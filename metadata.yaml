@@ -1,0 +1,30 @@
+_repo: A-Synopsis-of-the-British-Mosses-Containing-Descriptions-of-All-the-Genera-and-Species-With-L__65710
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hobkirk, Charles C. P. (Charles Codrington Pressick)
+    aliases:
+    - Hobkirk, Charles Codrington Pressick
+    - Hobkirk, Charles P.
+    - Hobkirk, Chas. P.
+    birthdate: 1837
+    deathdate: 1902
+    gutenberg_agent_id: '53470'
+    url: http://www.gutenberg.org/2009/agents/53470
+description: ''
+gutenberg_issued: '2021-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65710'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mosses -- Great Britain'
+- !lcc 'QK'
+- GITenberg
+title: "A Synopsis of the British Mosses\r\nContaining Descriptions of All the Genera\
+  \ and Species, (With Localities of the Rarer Ones) Found in Great Britain and Ireland,\
+  \ Based Upon Wilson's \"Bryologia Britannica,\" Schimper's \"Synopsis,\" Etc."
+url: http://www.gutenberg.org/ebooks/65710

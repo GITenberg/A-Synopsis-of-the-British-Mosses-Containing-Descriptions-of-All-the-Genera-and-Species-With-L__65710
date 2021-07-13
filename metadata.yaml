@@ -1,5 +1,8 @@
 _repo: A-Synopsis-of-the-British-Mosses-Containing-Descriptions-of-All-the-Genera-and-Species-With-L__65710
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65710-h/images/cover.jpg
 creator:
   author:
     agent_name: Hobkirk, Charles C. P. (Charles Codrington Pressick)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '53470'
     url: http://www.gutenberg.org/2009/agents/53470
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65710#A-Synopsis-of-the-British-Mosses-Containing-Descriptions-of-All-the-Genera-and-Species-With-L_
 gutenberg_issued: '2021-06-27'
 gutenberg_type: Text
 identifiers:
